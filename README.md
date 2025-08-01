@@ -1,2 +1,2 @@
 # mania-rest
-Site voltado para restaurante
+Site voltado para restaurantes, utilizando Html, css e javascript com JQuery.
